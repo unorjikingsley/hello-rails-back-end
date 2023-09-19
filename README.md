@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello React Frontend</h1>
+  <h1>Hello React Backend</h1>
 </div>
 
 <a name="readme-top"></a>
@@ -45,7 +45,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Project BackEnd <a name="-project-frontend-"></a>
+### Project BackEnd <a name="frontend-repo"></a>
 
 - <a href="https://github.com/unorjikingsley/hello-react-front-end.git">Link to Back end repo</a>
 
