@@ -1,4 +1,4 @@
-class MessagesController < ApplicationController
+class GreetingsController < ApplicationController
   before_action :set_message, only: %i[show update destroy]
 
   # GET /messages
