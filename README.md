@@ -45,9 +45,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Project BackEnd <a name="frontend-repo"></a>
+### Project FrontEnd <a name="frontend-repo"></a>
 
-- <a href="https://github.com/unorjikingsley/hello-react-front-end.git">Link to Back end repo</a>
+- <a href="https://github.com/unorjikingsley/hello-react-front-end.git">Link to Front-end repo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
