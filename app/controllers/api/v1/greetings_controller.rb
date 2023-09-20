@@ -1,4 +1,4 @@
-class GreetingsController < ApplicationController
+class Api::V1::GreetingsController < ApplicationController
   before_action :set_message, only: %i[show update destroy]
 
   # GET /messages
