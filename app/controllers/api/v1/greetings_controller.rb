@@ -58,3 +58,22 @@ class Api::V1::GreetingsController < ApplicationController
     params.require(:message).permit(:content)
   end
 end
+
+# To create a new version of the api, using this below
+# class Api::V2::GreetingsController < ApplicationController; end
+# with a new file call v2 under api directory - make sure to add everything from v1
+# with the new update for v2 and also create a route, like this for v1 and v2
+
+# # Version 1 routes
+# namespace :api do
+#   namespace :v1 do
+#     get 'random_greeting', to: 'greetings#random_greeting'
+#   end
+# end
+
+# # Version 2 routes
+# namespace :api do
+#   namespace :v2 do
+#     get 'random_greeting', to: 'greetings#random_greeting'
+#   end
+# end
